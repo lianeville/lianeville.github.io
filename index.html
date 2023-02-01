@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="Description" CONTENT="The Software and Development Portfolio of Lia Page">
+	<script src="portfolio-script.js"></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-QM1RCH8721"></script>
+	<script src="plugins/zoom.min.js"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-QM1RCH8721');
+	</script>
+	<link rel="stylesheet" type="text/css" href="portfolio-style.css?rnd=11">
+	<link rel="shortcut icon" type="image/png" href="assets/favicon.png"/>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+	<title>Lia's Portfolio</title>
+</head>
+<body id="body" onload="loadBackground()">
+<div id="backgroundPreload">
+	<img src="assets/backgroundPreLoad.jpg"></img>
+</div>
+
+<div id="background" onclick="closeWindows()"></div>
+<main onclick="">
+	<header>
+		<ul id="PersonalInfo" onclick="closeWindows()">
+			<li>
+				<h1>
+					Lia Neville
+					<a href="https://github.com/lianeville">
+						<i class="fa-brands fa-github"></i>
+					</a>
+					<a href="https://www.linkedin.com/in/lianeville/">
+						<i class="fa-brands fa-linkedin"></i>
+					</a>
+				</h1>
+			</li>
+			<li>Minneapolis, MN</li>
+			<li>Contact | <a href="mailto:lianeville5@gmail.com">lianeville5@gmail.com</a></li>
+			<li style="margin-top: .75em;">
+				Fullstack Engineer
+			</li>
+		</ul>
+		<a href="/cv.pdf" target="_blank" id="cvdl">
+			Download as a resume.
+		</a>
+	</header>
+
+	<div id="Experience" onclick="closeWindows()">
+		<div>
+			<h3>Front-end</h3>
+			<ul>
+				<li>HTML, CSS, JS</li>
+				<li>Svelte/Sveltekit</li>
+				<li>jQuery</li>
+				<li>Bootstrap</li>
+				<li>Tailwind</li>
+			</ul>
+		</div>
+		<div>
+			<h3>Backend & Devops</h3>
+			<ul>
+				<li>PHP</li>
+				<li>Node.js</li>
+				<li>MySQL</li>
+				<li>AWS</li>
+				<li>Docker</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="Projects">
+		<h3>Personal Projects</h3>
+
+		<div class="project-card" id="cloned-card">
+			<div class="project-header">
+				<h3 class="project-title"></h4>
+				<a class="project-link" href=""><i class="fa-solid fa-link"></i></a>
+			</div>
+			<div class="project-body">
+				<img class="project-icon" src="" alt="">
+				<span class="project-content"></span>
+				<div class="project-gallery">
+					<button class="w3-button w3-display-left" onclick="plusDivs(-1, event)">&#10094;</button>
+					<button class="w3-button w3-display-right" onclick="plusDivs(1, event)">&#10095;</button>
+				</div>
+				<div class="project-img-desc"></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+<div id="gbtInfo" class="info">
+	<h1>GPT3 is a Good Software Engineer</h1>
+	<a href="#" onclick="closeWindows()">X</a>
+	<div>
+
+	</div>
+</div>
+
+</body>
+</html>
