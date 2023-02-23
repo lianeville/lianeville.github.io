@@ -1,7 +1,7 @@
 [
 	{
 		"title": "jFilter - jQuery filtering plugin",
-		"id": "collarInfo",
+		"id": "jfilter",
 		"icon": "jFilterLogo.jpg",
 		"description": "One of the first things I did at Docket was introduce a filtering system so users can see all their tickets in an organized way. I developed it gradually the whole time, and eventually decided to make it agnostic to Docket for anybody to use it. I'm particularly proud of the coloring system; each of the filter's categories becomes bright and colorful when that category is filtered, and all currently active filters are displayed below and organized by color, so you always know what's being filtered at a glance.",
 		"link": {
@@ -17,7 +17,7 @@
 	},
 	{
 		"title": "LastFM Delete Scrobbles Extension",
-		"id": "gptJob",
+		"id": "lastfm",
 		"icon": false,
 		"description": "One day, I let someone use my Spotify account, only to realize I suddenly had thousands of songs completely foreign to me in my LastFM history. This bothered me (for some reason) enough to try deleting them one by one, but then realized how silly that was and made a Chrome extension to do it for me.",
 		"link": {
