@@ -1,0 +1,165 @@
+.back {
+	background-color: firebrick;
+}
+.ace.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-1.svg");
+}
+.two.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-2.svg");
+}
+.three.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-3.svg");
+}
+.four.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-4.svg");
+}
+.five.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-5.svg");
+}
+.six.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-6.svg");
+}
+.seven.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-7.svg");
+}
+.eight.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-8.svg");
+}
+.nine.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-9.svg");
+}
+.ten.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-10.svg");
+}
+.jack.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-11-JACK.svg");
+}
+.queen.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-12-QUEEN.svg");
+}
+.king.clubs {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/CLUB-13-KING.svg");
+}
+.ace.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-1.svg");
+}
+.two.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-2.svg");
+}
+.three.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-3.svg");
+}
+.four.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-4.svg");
+}
+.five.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-5.svg");
+}
+.six.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-6.svg");
+}
+.seven.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-7.svg");
+}
+.eight.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-8.svg");
+}
+.nine.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-9.svg");
+}
+.ten.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-10.svg");
+}
+.jack.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-11-JACK.svg");
+}
+.queen.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-12-QUEEN.svg");
+}
+.king.diamond {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/DIAMOND-13-KING.svg");
+}
+.ace.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-1.svg");
+}
+.two.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-2.svg");
+}
+.three.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-3.svg");
+}
+.four.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-4.svg");
+}
+.five.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-5.svg");
+}
+.six.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-6.svg");
+}
+.seven.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-7.svg");
+}
+.eight.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-8.svg");
+}
+.nine.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-9.svg");
+}
+.ten.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-10.svg");
+}
+.jack.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-11-JACK.svg");
+}
+.queen.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-12-QUEEN.svg");
+}
+.king.heart {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/HEART-13-KING.svg");
+}
+.ace.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-1.svg");
+}
+.two.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-2.svg");
+}
+.three.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-3.svg");
+}
+.four.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-4.svg");
+}
+.five.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-5.svg");
+}
+.six.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-6.svg");
+}
+.seven.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-7.svg");
+}
+.eight.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-8.svg");
+}
+.nine.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-9.svg");
+}
+.ten.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-10.svg");
+}
+.jack.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-11-JACK.svg");
+}
+.queen.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-12-QUEEN.svg");
+}
+.king.spades {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/SPADE-13-KING.svg");
+}
+.black.joker {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/JOKER-2.svg");
+}
+.color.joker {
+	background-image: url("images/Vector Cards (Version 3.2)/FACES (BORDERED)/STANDARD BORDERED/Single Cards (One Per FIle)/JOKER-3.svg");
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="assets/blackjack/stylesheet.css" />
+		<link rel="stylesheet" href="assets/blackjack/cards.css" />
+		<script src="blackjack.js" defer></script>
+
+		<title>Blackjack</title>
+	</head>
+
+	<body>
+		<!-- <nav>
+        <h1>Cards!</h1>
+        <ul>
+            <li><a href="#">Solitaire</a></li>
+            <li><a href="/blackjack.html">Blackjack</a></li>
+            <li><a href="#">Castle</a></li>
+        </ul>
+    </nav> -->
+
+		<main>
+			<div id="score-counter">
+				<div>
+					<h3>Dealer Card Value: <span id="comp-score">??</span></h3>
+					<h3>Player Card Value: <span id="player-score"></span></h3>
+				</div>
+				<h3 id="results"></h3>
+				<div>
+					<h3>Total Wins:</h3>
+					<h3>Dealer: <span id="local-comp-score">0</span></h3>
+					<h3>Player: <span id="local-player-score">0</span></h3>
+					<h3>Ties: <span id="local-tie-score">0</span></h3>
+				</div>
+			</div>
+			<div id="deck" style="display: none">
+				<div id="new-card" class="card">
+					<p id="total-cards">52</p>
+				</div>
+			</div>
+			<div id="comp"></div>
+			<div id="player"></div>
+		</main>
+
+		<footer>
+			<button class="btn" id="hit-btn">Hit</button>
+			<button class="btn hidden" id="new-game-btn">New<br />Game</button>
+			<button class="btn" id="hold-btn">Hold</button>
+		</footer>
+	</body>
+</html>
