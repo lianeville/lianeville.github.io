@@ -1,5 +1,25 @@
 [
 	{
+		"title": "Silly Chat - anonymous chat app",
+		"id": "silly-chat",
+		"icon": false,
+		"description": "Silly Chat is a lightweight and fun chat application that allows users to engage in public and anonymous conversations without the hassle of creating an account. Embrace the spontaneity of chat sessions with a unique user experience that doesn't require any mandatory registrations.",
+		"link": {
+			"title": "Git Repository",
+			"url": "https://github.com/lianeville/silly-chat"
+		},
+		"images": [
+			{
+				"title": "Dashboard",
+				"url": "silly-chat-dashboard"
+			},
+			{
+				"title": "Messages",
+				"url": "silly-chat-messages"
+			}
+		]
+	},
+	{
 		"title": "jFilter - jQuery filtering plugin",
 		"id": "jfilter",
 		"icon": "jFilterLogo.jpg",
