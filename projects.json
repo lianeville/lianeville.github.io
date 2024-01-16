@@ -1,21 +1,22 @@
 [
 	{
-		"title": "Silly Chat - anonymous chat app",
+		"title": "Silly Chat - Anonymous Chat App",
 		"id": "silly-chat",
 		"icon": false,
-		"description": "Silly Chat is a lightweight and fun chat application that allows users to engage in public and anonymous conversations without the hassle of creating an account. Embrace the spontaneity of chat sessions with a unique user experience that doesn't require any mandatory registrations.",
+		"description": "Silly Chat is a lightweight chat web app that lets users talk anonymously without needing an account. One thing that's always annoyed me about the internet is almost every site begging you to create an account and enter your email, phone number, or whatever else, so I wanted to this to be different. It lets uses create sessions, and chat publicly and anonymously without needing to create an account, but still makes it clear who's talking by assigning each user a random name.",
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/silly-chat"
 		},
+		"technologies": ["React", "MongoDb", "Express", "Node", "TailwindCSS"],
 		"images": [
 			{
 				"title": "Dashboard",
-				"url": "silly-chat-dashboard"
+				"url": "silly-chat-dashboard.png"
 			},
 			{
 				"title": "Messages",
-				"url": "silly-chat-messages"
+				"url": "silly-chat-messages.gif"
 			}
 		]
 	},
@@ -28,6 +29,7 @@
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/jFilter"
 		},
+		"technologies": ["jQuery", "Bootstrap", "Popper.js"],
 		"images": [
 			{
 				"title": "jFilter",
@@ -40,6 +42,7 @@
 		"id": "lastfm",
 		"icon": false,
 		"description": "One day, I let someone use my Spotify account, only to realize I suddenly had thousands of songs completely foreign to me in my LastFM history. This bothered me (for some reason) enough to try deleting them one by one, but then realized how silly that was and made a Chrome extension to do it for me.",
+		"technologies": ["Chrome Extension API"],
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/LastFm-Extension-Delete-Visible"
