@@ -1,8 +1,8 @@
 [
 	{
 		"title": "Honkai Star Rail: Trailblaze Level Calculator",
-		"id": "silly-chat",
-		"icon": false,
+		"id": "hsr-tb-calculator",
+		"icon": "trailblaze-power.webp",
 		"description": "This tool lets you easily see how long it will take you to reach higher levels in the video game Honkai: Star Rail. I always wanted something like this while playing, since reaching higher levels grant you better rewards, but it often takes weeks of waiting to get to the level you want, so I made this tool to calculate how much time it would take. Before this, the only tool to do something similar was a Google spreadsheet that was slightly difficult to use, and didn't factor in higher levels giving you higher EXP, so an easy-to-use tool with an accurate calculation was needed.",
 		"link": {
 			"title": "Git Repository",
