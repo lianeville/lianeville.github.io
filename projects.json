@@ -41,7 +41,7 @@
 		"title": "jFilter - jQuery filtering plugin",
 		"id": "jfilter",
 		"icon": "jFilterLogo.jpg",
-		"description": "One of the first things I did at Docket was introduce a filtering system so users can see all their tickets in an organized way. I developed it gradually the whole time, and eventually decided to make it agnostic to Docket for anybody to use it. I'm particularly proud of the coloring system; each of the filter's categories becomes bright and colorful when that category is filtered, and all currently active filters are displayed below and organized by color, so you always know what's being filtered at a glance.",
+		"description": "One of the first things I did at my previous company was introduce a filtering system so users can see all their tickets in an organized way. I developed it gradually the whole time, and eventually decided to make it agnostic for anybody to use it. I'm particularly proud of the coloring system; each of the filter's categories becomes bright and colorful when that category is filtered, and all currently active filters are displayed below and organized by color, so you always know what's being filtered at a glance.",
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/jFilter"
