@@ -265,13 +265,12 @@ span.project-content {
 }
 
 .project-tech {
-	list-style-type: none;
 	display: flex;
 	overflow-x: scroll;
 	margin-top: 0.5em;
 }
 
-.project-tech > li {
+.project-tech > div {
 	background-color: #e8c6ec;
 	width: fit-content;
 	padding: 0.25em;
@@ -279,6 +278,7 @@ span.project-content {
 	color: black;
 	border: 1px solid #784e7e;
 	margin-right: 0.25em;
+	margin-bottom: 0.25em;
 }
 
 .project-gallery {

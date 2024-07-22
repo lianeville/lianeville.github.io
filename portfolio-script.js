@@ -50,11 +50,11 @@ function formatProjects(project) {
 	}
 
 	if (project.technologies) {
-		let techLis = ""
+		let techChildren = ""
 		project.technologies.forEach(project => {
-			techLis += `<li>${project}</li>`
+			techChildren += `<div>${project}</div>`
 		})
-		projectDom.querySelector(".project-tech").innerHTML = techLis
+		projectDom.querySelector(".project-tech").innerHTML = techChildren
 	}
 
 	if (project.link.title != "") {
