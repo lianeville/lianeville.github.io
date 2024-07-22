@@ -266,8 +266,9 @@ span.project-content {
 
 .project-tech {
 	display: flex;
-	overflow-x: scroll;
+	overflow-x: auto;
 	margin-top: 0.5em;
+	padding-bottom: .25em;
 }
 
 .project-tech > div {
