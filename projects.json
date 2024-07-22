@@ -3,7 +3,7 @@
 		"title": "Honkai Star Rail: Trailblaze Level Calculator",
 		"id": "hsr-tb-calculator",
 		"icon": "trailblaze-power.webp",
-		"description": "This tool lets you easily see how long it will take you to reach higher levels in the video game Honkai: Star Rail. I always wanted something like this while playing, since reaching higher levels grant you better rewards, but it often takes weeks of waiting to get to the level you want, so I made this tool to calculate how much time it would take. Before this, the only tool to do something similar was a Google spreadsheet that was slightly difficult to use, and didn't factor in higher levels giving you higher EXP, so an easy-to-use tool with an accurate calculation was needed.",
+		"description": "This tool calculates how long it will take to reach higher levels in Honkai: Star Rail, helping you gauge the time needed to earn better rewards. Before this, the only similar option was a cumbersome Google spreadsheet that didn’t account for increasing EXP at higher levels.",
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/HSR-Trailblaze-Level-Calculator"
@@ -20,7 +20,7 @@
 		"title": "Silly Chat - Anonymous Chat App",
 		"id": "silly-chat",
 		"icon": false,
-		"description": "Silly Chat is a lightweight chat web app that lets users talk anonymously without needing an account. One thing that's always annoyed me about the internet is almost every site begging you to create an account and enter your email, phone number, or whatever else, so I wanted to this to be different. It lets uses create sessions, and chat publicly and anonymously without needing to create an account, but still makes it clear who's talking by assigning each user a random name.",
+		"description": "Silly Chat is a lightweight web app for anonymous chatting without requiring an account. It avoids the usual account setup hassles by allowing users to start sessions and chat publicly under random names.",
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/silly-chat"
@@ -41,7 +41,7 @@
 		"title": "jFilter - jQuery filtering plugin",
 		"id": "jfilter",
 		"icon": "jFilterLogo.jpg",
-		"description": "One of the first things I did at my previous company was introduce a filtering system so users can see all their tickets in an organized way. I developed it gradually the whole time, and eventually decided to make it agnostic for anybody to use it. I'm particularly proud of the coloring system; each of the filter's categories becomes bright and colorful when that category is filtered, and all currently active filters are displayed below and organized by color, so you always know what's being filtered at a glance.",
+		"description": "A filtering system was introduced to organize and display tickets effectively. It features a dynamic coloring system where active filter categories are highlighted in bright colors, and all active filters are shown below, organized by color for easy visibility.",
 		"link": {
 			"title": "Git Repository",
 			"url": "https://github.com/lianeville/jFilter"
@@ -51,23 +51,6 @@
 			{
 				"title": "jFilter",
 				"url": "jFilter.gif"
-			}
-		]
-	},
-	{
-		"title": "LastFM Delete Scrobbles Extension",
-		"id": "lastfm",
-		"icon": false,
-		"description": "One day, I let someone use my Spotify account, only to realize I suddenly had thousands of songs completely foreign to me in my LastFM history. This bothered me (for some reason) enough to try deleting them one by one, but then realized how silly that was and made a Chrome extension to do it for me.",
-		"technologies": ["Chrome Extension API"],
-		"link": {
-			"title": "Git Repository",
-			"url": "https://github.com/lianeville/LastFm-Extension-Delete-Visible"
-		},
-		"images": [
-			{
-				"title": "Delete Scrobbles.",
-				"url": "LastFM.gif"
 			}
 		]
 	}
