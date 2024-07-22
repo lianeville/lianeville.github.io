@@ -267,6 +267,7 @@ span.project-content {
 .project-tech {
 	list-style-type: none;
 	display: flex;
+	overflow-x: scroll;
 	margin-top: 0.5em;
 }
 
