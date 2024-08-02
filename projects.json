@@ -1,18 +1,25 @@
 [
 	{
-		"title": "Honkai Star Rail: Trailblaze Level Calculator",
-		"id": "hsr-tb-calculator",
-		"icon": "trailblaze-power.webp",
-		"description": "This tool calculates how long it will take to reach higher levels in Honkai: Star Rail, helping you gauge the time needed to earn better rewards. Before this, the only similar option was a cumbersome Google spreadsheet that didn’t account for increasing EXP at higher levels.",
+		"title": "Love Box - Asynchronous Messages",
+		"id": "love-box",
+		"icon": false,
+		"description": "Love Box is an app that lets you send and view messages asynchronously. Send a loved one a sweet note, and view one from them whenever you need it. Love Box uses Three.js and has gesture based navigation, making each note feel personal and significant.",
 		"link": {
 			"title": "Git Repository",
-			"url": "https://github.com/lianeville/HSR-Trailblaze-Level-Calculator"
+			"url": "https://github.com/lianeville/love-box"
 		},
-		"technologies": ["React", "TypeScript", "TailwindCSS"],
+		"technologies": [
+			"Three.js",
+			"React",
+			"MongoDb",
+			"Express",
+			"Node",
+			"TailwindCSS"
+		],
 		"images": [
 			{
-				"title": "Calculator",
-				"url": "HSR-Demo-Screenshot.png"
+				"title": "Opening Notes",
+				"url": "Love-Box.gif"
 			}
 		]
 	},
@@ -34,6 +41,23 @@
 			{
 				"title": "Messages",
 				"url": "silly-chat-messages.gif"
+			}
+		]
+	},
+	{
+		"title": "Honkai Star Rail: Trailblaze Level Calculator",
+		"id": "hsr-tb-calculator",
+		"icon": "trailblaze-power.webp",
+		"description": "This tool calculates how long it will take to reach higher levels in Honkai: Star Rail, helping you gauge the time needed to earn better rewards. Before this, the only similar option was a cumbersome Google spreadsheet that didn’t account for increasing EXP at higher levels.",
+		"link": {
+			"title": "Git Repository",
+			"url": "https://github.com/lianeville/HSR-Trailblaze-Level-Calculator"
+		},
+		"technologies": ["React", "TypeScript", "TailwindCSS"],
+		"images": [
+			{
+				"title": "Calculator",
+				"url": "HSR-Demo-Screenshot.png"
 			}
 		]
 	},
