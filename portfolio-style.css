@@ -348,7 +348,7 @@ span.project-content {
 
 @media (max-width: 768px) {
 	:root {
-		font-size: 2rem;
+		font-size: 1rem;
 	}
 	body {
 		align-items: unset;
@@ -366,6 +366,14 @@ span.project-content {
 	#Experience,
 	#Projects {
 		max-width: initial;
+	}
+
+	.project-header {
+		flex-direction: column;
+	}
+
+	.project-link {
+		margin-top: 0.5em;
 	}
 
 	.info {
