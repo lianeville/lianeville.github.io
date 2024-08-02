@@ -366,6 +366,7 @@ span.project-content {
 	#Experience,
 	#Projects {
 		max-width: initial;
+		padding: 1em;
 	}
 
 	.project-header {
