@@ -24,23 +24,40 @@
 		]
 	},
 	{
-		"title": "Silly Chat - Anonymous Chat App",
-		"id": "silly-chat",
-		"icon": false,
-		"description": "Silly Chat is a lightweight web app for anonymous chatting without requiring an account. It avoids the usual account setup hassles by allowing users to start sessions and chat publicly under random names.",
+		"title": "jFilter - jQuery filtering plugin",
+		"id": "jfilter",
+		"icon": "jFilterLogo.jpg",
+		"description": "A filtering system was introduced to organize and display tickets effectively. It features a dynamic coloring system where active filter categories are highlighted in bright colors, and all active filters are shown below, organized by color for easy visibility.",
 		"link": {
 			"title": "Git Repository",
-			"url": "https://github.com/lianeville/silly-chat"
+			"url": "https://github.com/lianeville/jFilter"
+		},
+		"technologies": ["jQuery", "Bootstrap", "Popper.js"],
+		"images": [
+			{
+				"title": "jFilter",
+				"url": "jFilter.gif"
+			}
+		]
+	},
+	{
+		"title": "Sneaky Chat - Anonymous Chat App",
+		"id": "sneaky-chat",
+		"icon": false,
+		"description": "Sneaky Chat is a lightweight web app for anonymous chatting without requiring an account. It avoids the usual account setup hassles by allowing users to start sessions and chat publicly under random names.",
+		"link": {
+			"title": "Git Repository",
+			"url": "https://github.com/lianeville/sneaky-chat"
 		},
 		"technologies": ["React", "MongoDb", "Express", "Node", "TailwindCSS"],
 		"images": [
 			{
 				"title": "Dashboard",
-				"url": "silly-chat-dashboard.png"
+				"url": "sneaky-chat-dashboard.png"
 			},
 			{
 				"title": "Messages",
-				"url": "silly-chat-messages.gif"
+				"url": "sneaky-chat-messages.gif"
 			}
 		]
 	},
@@ -58,23 +75,6 @@
 			{
 				"title": "Calculator",
 				"url": "HSR-Demo-Screenshot.png"
-			}
-		]
-	},
-	{
-		"title": "jFilter - jQuery filtering plugin",
-		"id": "jfilter",
-		"icon": "jFilterLogo.jpg",
-		"description": "A filtering system was introduced to organize and display tickets effectively. It features a dynamic coloring system where active filter categories are highlighted in bright colors, and all active filters are shown below, organized by color for easy visibility.",
-		"link": {
-			"title": "Git Repository",
-			"url": "https://github.com/lianeville/jFilter"
-		},
-		"technologies": ["jQuery", "Bootstrap", "Popper.js"],
-		"images": [
-			{
-				"title": "jFilter",
-				"url": "jFilter.gif"
 			}
 		]
 	}
