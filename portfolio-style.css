@@ -268,7 +268,7 @@ span.project-content {
 	display: flex;
 	overflow-x: auto;
 	margin-top: 0.5em;
-	padding-bottom: .25em;
+	padding-bottom: 0.25em;
 }
 
 .project-tech > div {
@@ -346,7 +346,7 @@ span.project-content {
 	margin-right: 0.5rem;
 }
 
-@media (pointer: coarse) {
+@media (max-width: 768px) {
 	:root {
 		font-size: 2rem;
 	}
