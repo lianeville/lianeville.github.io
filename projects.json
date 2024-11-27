@@ -1,5 +1,26 @@
 [
 	{
+		"title": "Device Backup Manager",
+		"id": "backup-manager",
+		"icon": "ubiquiti.webp",
+		"description": "Device Backup Manager is a web application designed to facilitate automated backup management for network devices. The application provides a user-friendly interface for generating backups, monitoring backup processes, and checking script statuses. It maintains persistent SSH connections to network devices and performs SSH commands to execute backup procedures securely.",
+		"link": {
+			"title": "Git Repository",
+			"url": "https://github.com/lianeville/love-box"
+		},
+		"technologies": [
+			"ASP.NET / C#",
+			"SSH.NET",
+			"React.js"
+		],
+		"images": [
+			{
+				"title": "Adding and Using a Device",
+				"url": "Device-Adding.gif"
+			}
+		]
+	},
+	{
 		"title": "Love Box - Asynchronous Messages",
 		"id": "love-box",
 		"icon": false,
