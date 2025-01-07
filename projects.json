@@ -21,30 +21,6 @@
 		]
 	},
 	{
-		"title": "Love Box - Asynchronous Messages",
-		"id": "love-box",
-		"icon": false,
-		"description": "Love Box is an app that lets you send and view messages asynchronously. Send a loved one a sweet note, and view one from them whenever you need it. Love Box uses Three.js and has gesture based navigation, making each note feel personal and significant.",
-		"link": {
-			"title": "Git Repository",
-			"url": "https://github.com/lianeville/love-box"
-		},
-		"technologies": [
-			"Three.js",
-			"React",
-			"MongoDb",
-			"Express",
-			"Node",
-			"TailwindCSS"
-		],
-		"images": [
-			{
-				"title": "Opening Notes",
-				"url": "Love-Box.gif"
-			}
-		]
-	},
-	{
 		"title": "jFilter - jQuery filtering plugin",
 		"id": "jfilter",
 		"icon": "jFilterLogo.jpg",
@@ -79,6 +55,30 @@
 			{
 				"title": "Messages",
 				"url": "sneaky-chat-messages.gif"
+			}
+		]
+	},
+	{
+		"title": "Love Box - Asynchronous Messages",
+		"id": "love-box",
+		"icon": false,
+		"description": "Love Box is an app that lets you send and view messages asynchronously. Send a loved one a sweet note, and view one from them whenever you need it. Love Box uses Three.js and has gesture based navigation, making each note feel personal and significant.",
+		"link": {
+			"title": "Git Repository",
+			"url": "https://github.com/lianeville/love-box"
+		},
+		"technologies": [
+			"Three.js",
+			"React",
+			"MongoDb",
+			"Express",
+			"Node",
+			"TailwindCSS"
+		],
+		"images": [
+			{
+				"title": "Opening Notes",
+				"url": "Love-Box.gif"
 			}
 		]
 	},
